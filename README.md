@@ -36,7 +36,7 @@ File Types That Open in BigStand
 -------------
 Many IOS Apps support opening a file in another app -most importantly Mail and Gmail. Here's what BigStand does...
 			
-				<table>
+<table>
 					<tr ><th >Type</th><th>Stored As</th><th>Displayed As</th>
 					</tr><tr>
 					<td> HTML		</td><td> As received with supplied Tune Title.	</td><td> displays in pdf viewer in     webview						</td></tr><tr>
@@ -58,7 +58,7 @@ Many IOS Apps support opening a file in another app -most importantly Mail and G
 														</td></tr><tr>
 					<td> ZIP		</td><td> Full Unzipped Tree Is Stored into a new archive. </td><td> Only top level directory is indexed by Tune Title.
 														</td>	</tr>
-					</table>
+</table>
 
 
 
