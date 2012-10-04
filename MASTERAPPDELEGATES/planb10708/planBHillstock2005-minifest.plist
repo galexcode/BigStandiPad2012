@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ShovelReadyMusicKey</key>
+	<string>planbHillstock2005</string>
+	<key>RemoteURL</key>
+	<string>http://s350968899.onlinehome.us/planb/planbHillstock2005/</string>
+	<key>TuneBundleName</key>
+	<string>Hillstock 2005</string>
+	<key>PerformanceDate</key>
+	<string>May 2005</string>
+	<key>ImageURL</key>
+	<string>hillstock2005.png</string>
+	<key>HighlightedImageURL</key>
+	<string>hillstock2005over.png</string>
+	<key>Notes</key>
+	<string>Donner&apos;s Farm, Bronxville, NY</string>
+	<key>Tunes</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>a hard day&apos;s night</string>
+			<key>URL</key>
+			<string>a hard day&apos;s night.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>birthday</string>
+			<key>URL</key>
+			<string>birthday.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>brown sugar</string>
+			<key>URL</key>
+			<string>brown sugar.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>love me two times</string>
+			<key>URL</key>
+			<string>love me two times.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>riders on the storm</string>
+			<key>URL</key>
+			<string>riders on the storm.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>somebody to love</string>
+			<key>URL</key>
+			<string>somebody to love.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>stop draggin my heart aroun</string>
+			<key>URL</key>
+			<string>stop draggin my heart aroun.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>sunshine crossroads</string>
+			<key>URL</key>
+			<string>sunshine crossroads.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>suzie q</string>
+			<key>URL</key>
+			<string>suzie q.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>under my thumb</string>
+			<key>URL</key>
+			<string>under my thumb.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>white rabbit</string>
+			<key>URL</key>
+			<string>white rabbit.mp3</string>
+		</dict>
+	</array>
+</dict>
+</plist>

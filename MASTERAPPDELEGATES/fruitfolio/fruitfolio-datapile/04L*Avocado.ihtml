@@ -1,0 +1,18 @@
+<html><head>
+<meta name="viewport" content="width=device-width" />
+<link rel="stylesheet" type="text/css" href="css/infoBox.css" />
+</head>
+
+<body>
+<div class="infoTitle">
+Avocado</div>
+
+<div class="infoCLient"><a href='http://en.wikipedia.org/wiki/Avocado'>http://en.wikipedia.org/wiki/Avocado</a></div>
+
+<div class="infoText">
+The avocado (Persea americana) is a tree native to Central Mexico,[1] classified in the flowering plant family Lauraceae along with cinnamon, camphor and bay laurel. Avocado or alligator pear also refers to the fruit (botanically a large berry that contains a single seed[2]) of the tree, which may be pear-shaped, egg-shaped or spherical.
+Avocados are commercially valuable, and are cultivated in tropical and mediterranean climates throughout the world, producing a green-skinned, pear-shaped fruit that ripens after harvesting. Trees are partially self-pollinating and often are propagated through grafting to maintain a predictable quality and quantity of the fruit.
+
+</div>
+</body>
+</html>

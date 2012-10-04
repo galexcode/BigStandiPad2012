@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ShovelReadyMusicKey</key>
+	<string>planBBurkes2011April23</string>
+	<key>RemoteURL</key>
+	<string>http://s350968899.onlinehome.us/planb/planBBurkes2011April23/</string>
+	<key>TuneBundleName</key>
+	<string>planBBurkes2011April23</string>
+	<key>PerformanceDate</key>
+	<string>April 23, 2011</string>
+	<key>ImageURL</key>
+	<string>burkesLive.png</string>
+	<key>HighlightedImageURL</key>
+	<string>burkesLiveOver.png</string>
+	<key>Notes</key>
+	<string>Burke&apos;s Pub, Yonkers</string>
+	<key>Tunes</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Set One</string>
+			<key>URL</key>
+			<string>burkesset1.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Set Two</string>
+			<key>URL</key>
+			<string>burkesset2.mp3</string>
+		</dict>
+	</array>
+</dict>
+</plist>

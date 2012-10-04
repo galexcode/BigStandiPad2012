@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ShovelReadyMusicKey</key>
+	<string>planBBurkes2011Dec16</string>
+	<key>RemoteURL</key>
+	<string>http://s350968899.onlinehome.us/planb/planBBurkes2011Dec16/</string>
+	<key>TuneBundleName</key>
+	<string>planBBurkes2011Dec16</string>
+	<key>PerformanceDate</key>
+	<string>Dec 16, 2011</string>
+	<key>ImageURL</key>
+	<string>burkesDec2011.png</string>
+	<key>HighlightedImageURL</key>
+	<string>burkesDec2011over.png</string>
+	<key>Notes</key>
+	<string>Burke&apos;s Pub, Yonkers</string>
+	<key>Tunes</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>01 start me up</string>
+			<key>URL</key>
+			<string>01 start me up.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>02 rock and roll</string>
+			<key>URL</key>
+			<string>02 rock and roll.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>03 hard to handle</string>
+			<key>URL</key>
+			<string>03 hard to handle.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>04 magic carpet ride</string>
+			<key>URL</key>
+			<string>04 magic carpet ride.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>05 long train runnin</string>
+			<key>URL</key>
+			<string>05 long train runnin.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>06 rock and roll hoochie koo</string>
+			<key>URL</key>
+			<string>06 rock and roll hoochie koo.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>07 gimme some lovin</string>
+			<key>URL</key>
+			<string>07 gimme some lovin.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>08 luv shak</string>
+			<key>URL</key>
+			<string>08 luv shak.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>09 knock on wood</string>
+			<key>URL</key>
+			<string>09 knock on wood.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>10 i feel good</string>
+			<key>URL</key>
+			<string>10 i feel good.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>11 midnight confessions</string>
+			<key>URL</key>
+			<string>11 midnight confessions.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>12 mercy</string>
+			<key>URL</key>
+			<string>12 mercy.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>13 life in the fast lane</string>
+			<key>URL</key>
+			<string>13 life in the fast lane.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>14 got my mojo working</string>
+			<key>URL</key>
+			<string>14 got my mojo working.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>15 hush</string>
+			<key>URL</key>
+			<string>15 hush.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>16 xmas medley</string>
+			<key>URL</key>
+			<string>16 xmas medley.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>17 sweet child of mine</string>
+			<key>URL</key>
+			<string>17 sweet child of mine.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>18 cant get enough</string>
+			<key>URL</key>
+			<string>18 cant get enough.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>19 hit me with your best shot</string>
+			<key>URL</key>
+			<string>19 hit me with your best shot.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>20 birthday</string>
+			<key>URL</key>
+			<string>20 birthday.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>21 mustang sally</string>
+			<key>URL</key>
+			<string>21 mustang sally.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>22 old time rock and roll</string>
+			<key>URL</key>
+			<string>22 old time rock and roll.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>23 billy jean</string>
+			<key>URL</key>
+			<string>23 billy jean.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>24 crazy little thing called love</string>
+			<key>URL</key>
+			<string>24 crazy little thing called love.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>25 hurts so bad</string>
+			<key>URL</key>
+			<string>25 hurts so bad.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>26 taking care of business</string>
+			<key>URL</key>
+			<string>26 taking care of business.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>27 sultans of swing</string>
+			<key>URL</key>
+			<string>27 sultans of swing.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>28 spooky</string>
+			<key>URL</key>
+			<string>28 spooky.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>29 why does love got to be so sad</string>
+			<key>URL</key>
+			<string>29 why does love got to be so sad.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>30 reelin in the years</string>
+			<key>URL</key>
+			<string>30 reelin in the years.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>31 cliffs of dover</string>
+			<key>URL</key>
+			<string>31 cliffs of dover.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>32 brown sugar</string>
+			<key>URL</key>
+			<string>32 brown sugar.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>33 jailhouse rock w mashwork orange</string>
+			<key>URL</key>
+			<string>33 jailhouse rock w mashwork orange.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>34 badge</string>
+			<key>URL</key>
+			<string>34 badge.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>35 born to be wild</string>
+			<key>URL</key>
+			<string>35 born to be wild.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>36 just what i needed</string>
+			<key>URL</key>
+			<string>36 just what i needed.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>37 bodhisattva</string>
+			<key>URL</key>
+			<string>37 bodhisattva.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>38 the thrill is gone</string>
+			<key>URL</key>
+			<string>38 the thrill is gone.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>39 bad love</string>
+			<key>URL</key>
+			<string>39 bad love.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>40 money for nothing</string>
+			<key>URL</key>
+			<string>40 money for nothing.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>41 furthur on up the road</string>
+			<key>URL</key>
+			<string>41 furthur on up the road.mp3</string>
+		</dict>
+	</array>
+</dict>
+</plist>

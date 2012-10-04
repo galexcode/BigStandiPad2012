@@ -1,0 +1,18 @@
+<html><head>
+<meta name="viewport" content="width=device-width" />
+<link rel="stylesheet" type="text/css" href="css/infoBox.css" />
+</head>
+
+<body>
+<div class="infoTitle">
+Canteloupe</div>
+
+<div class="infoCLient"><a href='http://en.wikipedia.org/wiki/Canteloupe'>http://en.wikipedia.org/wiki/Canteloupe</a></div>
+
+<div class="infoText">
+Cantaloupe (also cantaloup, mushmelon, muskmelon, rockmelon or spanspek) refers to a variety of Cucumis melo, a species in the family Cucurbitaceae which includes nearly all melons and squashes. Cantaloupes range in size from 0.5 to 5.0 kilograms (1.1 to 11 lb). Originally, cantaloupe referred only to the non-netted orange-fleshed melons of Europe; however, in more recent usage it has come to mean any orange-fleshed melon (C. melo).
+
+ </div>
+
+</body>
+</html>

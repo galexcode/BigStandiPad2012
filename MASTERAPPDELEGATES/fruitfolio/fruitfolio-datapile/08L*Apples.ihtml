@@ -1,0 +1,17 @@
+<html><head>
+<meta name="viewport" content="width=device-width" />
+<link rel="stylesheet" type="text/css" href="css/infoBox.css" />
+</head>
+<div class="infoTitle">
+Apples</div>
+
+<div class="infoCLient"><a href='http://en.wikipedia.org/wiki/Plums'>http://en.wikipedia.org/wiki/Apples</a></div>
+
+<div class="infoText">
+The apple is the pomaceous fruit of the apple tree, species Malus domestica in the rose family (Rosaceae). It is one of the most widely cultivated tree fruits, and the most widely known of the many members of genus Malus that are used by humans.
+The tree originated in Western Asia, where its wild ancestor, the Alma, is still found today. There are more than 7,500 known cultivars of apples, resulting in a range of desired characteristics. Cultivars vary in their yield and the ultimate size of the tree, even when grown on the same rootstock.[2]
+At least 55 million tonnes of apples were grown worldwide in 2005, with a value of about $10 billion. China produced about 35% of this total.[3] The United States is the second-leading producer, with more than 7.5% of world production. Iran is third, followed by Turkey, Russia, Italy and India.
+
+</div>
+</body>
+</html>

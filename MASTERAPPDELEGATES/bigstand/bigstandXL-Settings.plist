@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SettingsVersion</key>
+	<string>2.01</string>
+	<key>MinSwVersion</key>
+	<string>2.01</string>
+	<key>AdHocDistroToFriendsOnly</key>
+	<true/>
+	<key>EmailSettings</key>
+	<dict>
+		<key>TellAFriendEmail</key>
+		<dict>
+			<key>EmailAttachment</key>
+			<true/>
+			<key>EmailTo</key>
+			<string></string>
+			<key>EmailSubject</key>
+			<string>Sending You %T</string>
+			<key>EmailBody</key>
+			<string>I&apos;m enjoying this app and I think you will too. Try it, it&apos;s free. I&apos;m using it to play from sheet music and chord sheets.%N. I&apos;ve attached the tune %T for you.</string>
+			<key>EmailApplicationBanner</key>
+			<string>sending %T</string>
+		</dict>
+		<key>ContactUsEmail</key>
+		<dict>
+			<key>EmailTo</key>
+			<string>support@ShovelReadyApps</string>
+			<key>EmailSubject</key>
+			<string>I&apos;m contacting you about a // BigStand feature or issue</string>
+			<key>EmailBody</key>
+			<string>[please describe your problem]</string>
+			<key>EmailApplicationBanner</key>
+			<string>// BigStand SUPPORT</string>
+		</dict>
+	</dict>
+	<key>ZippedDataPiles</key>
+	<array>
+		<string>onthefly-archive</string>
+		<string>deadstein-sample-asis.zip</string>
+		<string>dylan-sample-archive.zip</string>
+		<string>harrison-sample-archive.zip</string>
+		<string>lennon-sample-archive.zip</string>
+		<string>mccartney-sample-archive.zip</string>
+		<string>rukind-sample-archive.zip</string>
+		<string>stones-sample-archive.zip</string>
+		<string>clapton-sample-archive.zip</string>
+		<string>theband-sample-archive.zip</string>
+		<string>misc-sample-txtarchive.zip</string>
+		<string>planb-sample-archive.zip</string>
+		<string>steelydan-sample-archive.zip</string>
+		<string>kregslist-sample-archive.zip</string>
+		<string>btunes-photo-archive.zip</string>
+		<string>malfalfa-jpg-archive.zip</string>
+		<string>van-album-archive.zip</string>
+	</array>
+	<key>TitlesForHiddenPages</key>
+	<dict>
+		<key>about.html</key>
+		<string>BigStand by ShovelReadyApps</string>
+		<key>help.html</key>
+		<string>How To Use BigStand</string>
+	</dict>
+	<key>ActionSets</key>
+	<dict>
+		<key>BigStandActions</key>
+		<dict>
+			<key>Title</key>
+			<string>Tune Choices</string>
+			<key>ActionMenuActions</key>
+			<array>
+				<string>SHOW-ADDTOFAVORITES</string>
+				<string>SHOW-ADDTOLIST</string>
+				<string>SHOW-TELLAFRIENDEMAIL</string>
+				<string>SHOW-PRINTCHOOSER</string>
+			</array>
+			<key>ActionMenuLabels</key>
+			<array>
+				<string>Add Tune to Favorites</string>
+				<string>Add Tune to List</string>
+				<string>Send Tune by Email</string>
+				<string>Print Tune</string>
+			</array>
+			<key>ActionMenuIcons</key>
+			<array>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+			</array>
+		</dict>
+	</dict>
+	<key>iPadSpecialButtonBindings</key>
+	<dict>
+		<key>Title</key>
+		<string>Extra buttons in special overlays and such</string>
+		<key>ButtonTags</key>
+		<array>
+			<integer>522</integer>
+			<integer>523</integer>
+			<string>524</string>
+			<string>525</string>
+		</array>
+		<key>ButtonActions</key>
+		<array>
+			<string>SHOW-PHOTOCAPTUREPAGE</string>
+			<string>SHOW-WEBCAPTUREPAGE</string>
+			<string>SHOW-LISTSMANAGER</string>
+			<string>SHOW-ARCHIVESMANAGER</string>
+		</array>
+	</dict>
+	<key>iPadMenuSettings</key>
+	<dict>
+		<key>MAINMENU</key>
+		<dict>
+			<key>MainTitle</key>
+			<string>bigstand actions</string>
+			<key>MenuStyle</key>
+			<integer>1</integer>
+			<key>RightHanded</key>
+			<true/>
+			<key>TagBase</key>
+			<integer>3000</integer>
+			<key>BackgroundColor</key>
+			<string>whiteColor</string>
+			<key>ThumbNailSize</key>
+			<integer>100</integer>
+			<key>ImageBorderSize</key>
+			<integer>4</integer>
+			<key>ColumnCount</key>
+			<integer>5</integer>
+			<key>ActionSheetRight</key>
+			<string>BigStandActions</string>
+		</dict>
+		<key>ALTMENU-A</key>
+		<dict>
+			<key>MainTitle</key>
+			<string>Motion Graphics</string>
+			<key>TitleColor</key>
+			<string>whiteColor</string>
+			<key>TextColor</key>
+			<string>grayColor</string>
+			<key>PileFilter</key>
+			<string></string>
+			<key>RightHanded</key>
+			<true/>
+			<key>MenuStyle</key>
+			<integer>1</integer>
+			<key>ActionSheetRight</key>
+			<string>CaptureActions</string>
+			<key>TagBase</key>
+			<integer>1000</integer>
+			<key>BackgroundColor</key>
+			<string>blackColor</string>
+			<key>ThumbNailSize</key>
+			<integer>100</integer>
+			<key>ImageBorderSize</key>
+			<integer>5</integer>
+			<key>ColumnCount</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>iPadXibs</key>
+	<dict>
+		<key>InfoOverlay</key>
+		<string>// BigStandInfoOverlayiPadView</string>
+		<key>MusicStandArchiveProps</key>
+		<string>MusicStandArchivePropsiPadView</string>
+	</dict>
+	<key>ButtonHelp</key>
+	<dict>
+		<key>DEFAULT</key>
+		<string>&lt;div class=buttonHelp&gt;Tap Top Or Bottom Buttons For Help&lt;br/&gt;&lt;br/&gt;Triple Tap to Enter or Leave Full Screen&lt;br/&gt;&lt;br/&gt;&lt;a href=#fullSheet&apos;&gt;online help&lt;/a&gt;at ShovelReadyApps&lt;/div&gt;</string>
+		<key>SHOW-FAVORITES</key>
+		<string>&lt;div class=buttonHelp&gt;Use this button to show a list of your favorite tunes. You can add a tune to your favorites list by hitting the button in the upper right and selecting Add To Favorites.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#SHOW-FAVORITES&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>SHOW-RECENTS</key>
+		<string>&lt;div class=buttonHelp&gt;The R button shows a list of the last 100 recently played tunes. To make the list a tune must remain on screen for at least 30 seconds.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#SHOW-RECENTS&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>SHOW-SET1</key>
+		<string>&lt;div class=buttonHelp&gt;Show the first set list. Set lists are useful for organizing your performances.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#SHOW-SET1&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>SHOW-SET2</key>
+		<string>&lt;div class=buttonHelp&gt;Show the second set list. Set lists are useful for organizing your performances.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#SHOW-SET2&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>SHOW-SET3</key>
+		<string>&lt;div class=buttonHelp&gt;Show the third set list. Set lists are useful for organizing your performances.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#SHOW-SET3&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>SHOW-SEARCHPAGE</key>
+		<string>&lt;div class=buttonHelp&gt;Search All Tunes in // BigStand. Or scroll to any particular tune if you&apos;d rather not type.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#SHOW-SEARCHPAGE&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>SHOW-ARCHIVECHOOSER</key>
+		<string>&lt;div class=buttonHelp&gt;Choose an Archive for Searching. Create a new Archive. Archives are good for organizing your content into separate repositories.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#SHOW-ARCHIVECHOOSER&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>SHOW-MAINTITLE</key>
+		<string>&lt;div class=buttonHelp&gt;This shows the title of the tune currently on screen. Tap to Rename, Move, or Delete the tune.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#SHOW-MAINTITLE&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>SHOW-TRAVERSING</key>
+		<string>&lt;div class=buttonHelp&gt;Shows which list, archive, or other collection of tunes is being navigated via the arrows on lower corners.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#SHOW-TRAVERSING&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>IMPORT-ONTHEFLYARCHIVE</key>
+		<string>&lt;div class=buttonHelp&gt;Use this button to Add more content to // BigStand from your photo library, the Web, via iTunes sharing, or Email.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#IMPORT-ONTHEFLYARCHIVE&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>SHOW-ACTIONSHEETRIGHT</key>
+		<string>&lt;div class=buttonHelp&gt;Add this tune to Favorites, or to another List. Or Email this tune to a friend, or print this Tune.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#SHOW-ACTIONSHEETRIGHT&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>PREV2LINE-BUTTON</key>
+		<string>&lt;div class=buttonHelp&gt;Go backwards in current list. Also shows the name and version of this // BigStand app.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#PREV2LINE-BUTTON&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>GO-FULLSCREEN</key>
+		<string>&lt;div class=buttonHelp&gt;Enter Full Screen Mode. Triple tap to restore top and bottom controls.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#GO-FULLSCREEN&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>MUTIDOC-BUTTON</key>
+		<string>&lt;div class=buttonHelp&gt;Shows the Archive and File Type for Current Tune. Tap to step thru multiple versions of this Tune in // BigStand.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#MUTIDOC-BUTTON&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>OVERLAY-INFO</key>
+		<string>&lt;div class=buttonHelp&gt;Brings up this Help Overlay. Tap on any button for more help.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#OVERLAY-INFO&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>NEXT2LINE-BUTTON</key>
+		<string>&lt;div class=buttonHelp&gt;Go forward in current list. Also shows UserName for ShovelReadyApps&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#NEXT2LINE-BUTTON&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+	</dict>
+	<key>Text</key>
+	<dict>
+		<key>DEFAULT</key>
+		<string>Tap Top Or Bottom Buttons For Help&lt;br/&gt;&lt;br/&gt;Triple Tap to Enter or Leave Full Screen&lt;br/&gt;&lt;br/&gt;&lt;a href=#fullSheet&apos;&gt;online help&lt;/a&gt;at ShovelReadyApps&lt;/div&gt;</string>
+		<key>SHOW-FAVORITES</key>
+		<string>&lt;div class=buttonHelp&gt;Use this button to show a list of your favorite tunes. You can add a tune to your favorites list by hitting the button in the upper right and selecting Add To Favorites.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#SHOW-FAVORITES&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>SHOW-RECENTS</key>
+		<string>&lt;div class=buttonHelp&gt;The R button shows a list of the last 100 recently played tunes. To make the list a tune must remain on screen for at least 30 seconds.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#SHOW-RECENTS&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>SHOW-SET1</key>
+		<string>&lt;div class=buttonHelp&gt;Show the first set list. Set lists are useful for organizing your performances.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#SHOW-SET1&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>SHOW-SET2</key>
+		<string>&lt;div class=buttonHelp&gt;Show the second set list. Set lists are useful for organizing your performances.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#SHOW-SET2&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>SHOW-SET3</key>
+		<string>&lt;div class=buttonHelp&gt;Show the third set list. Set lists are useful for organizing your performances.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#SHOW-SET3&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>SHOW-SEARCHPAGE</key>
+		<string>&lt;div class=buttonHelp&gt;Search All Tunes in // BigStand. Or scroll to any particular tune if you&apos;d rather not type.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#SHOW-SEARCHPAGE&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>SHOW-ARCHIVECHOOSER</key>
+		<string>&lt;div class=buttonHelp&gt;Choose an Archive for Searching. Create a new Archive. Archives are good for organizing your content into separate repositories.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#SHOW-ARCHIVECHOOSER&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>SHOW-MAINTITLE</key>
+		<string>&lt;div class=buttonHelp&gt;This shows the title of the tune currently on screen. Tap to Rename, Move, or Delete the tune.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#SHOW-MAINTITLE&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>SHOW-TRAVERSING</key>
+		<string>&lt;div class=buttonHelp&gt;Shows which list, archive, or other collection of tunes is being navigated via the arrows on lower corners.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#SHOW-TRAVERSING&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>IMPORT-ONTHEFLYARCHIVE</key>
+		<string>&lt;div class=buttonHelp&gt;Use this button to Add more content to // BigStand from your photo library, the Web, via iTunes sharing, or Email.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#IMPORT-ONTHEFLYARCHIVE&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>SHOW-ACTIONSHEETRIGHT</key>
+		<string>&lt;div class=buttonHelp&gt;Add this tune to Favorites, or to another List. Or Email this tune to a friend, or print this Tune.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#SHOW-ACTIONSHEETRIGHT&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>PREVGS-BUTTON</key>
+		<string>&lt;div class=buttonHelp&gt;Go backwards in current list. Also shows the name and version of this // BigStand app.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#PREV2LINE-BUTTON&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>METRONOME-BUTTON</key>
+		<string>&lt;div class=buttonHelp&gt;Metronome Controls - quick tap for ON/OFF - long tap for changing tempo and meter.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#METRONOME-BUTTON&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>GO-FULLSCREEN</key>
+		<string>&lt;div class=buttonHelp&gt;Enter Full Screen Mode. Triple tap to restore top and bottom controls.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#GO-FULLSCREEN&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>MUTIDOC-BUTTON</key>
+		<string>&lt;div class=buttonHelp&gt;Shows the Archive and File Type for Current Tune. Tap to step thru multiple versions of this Tune in // BigStand.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#MUTIDOC-BUTTON&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>OVERLAY-INFO</key>
+		<string>&lt;div class=buttonHelp&gt;Brings up this Help Overlay. Tap on any button for more help.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#OVERLAY-INFO&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>AUTOSCROLLER-BUTTON</key>
+		<string>&lt;div class=buttonHelp&gt;AutoScroller Controls - quick tap for ON/OFF - long tap for setting scroll rate.&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#AUTOSCROLLER-BUTTON&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+		<key>NEXT2LINE-BUTTON</key>
+		<string>&lt;div class=buttonHelp&gt;Go forward in current list. Also shows UserName for ShovelReadyApps&lt;p&gt;&lt;small&gt;  &lt;a href=&apos;#NEXT2LINE-BUTTON&apos;&gt;more&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</string>
+	</dict>
+	<key>URLMappings</key>
+	<dict>
+		<key>Content-Sites</key>
+		<string>http://s354932748.onlinehome.us/content-sites.html</string>
+		<key>Instructions-Root</key>
+		<string>http://s354932748.onlinehome.us/instructions.html</string>
+		<key>Instructions-Pattern</key>
+		<string>^#*</string>
+	</dict>
+	<key>iPadCornerNavSettings</key>
+	<dict>
+		<key>TopLeftNav</key>
+		<dict>
+			<key>SegmentedControl</key>
+			<true/>
+			<key>MenuSpacing</key>
+			<integer>8</integer>
+			<key>MenuTextButtonBorders</key>
+			<true/>
+			<key>MenuImageButtonBorders</key>
+			<true/>
+			<key>MenuActions</key>
+			<array>
+				<string>SHOW-SEARCHPAGE</string>
+				<string>SHOW-ARCHIVECHOOSER</string>
+				<string>SHOW-LISTSMANAGER</string>
+				<string>SHOW-SET1</string>
+				<string>SHOW-SET2</string>
+				<string>SHOW-SET3</string>
+				<string>SHOW-FAVORITES</string>
+				<string>SHOW-RECENTS</string>
+			</array>
+			<key>MenuIcons</key>
+			<array>
+				<string>icon_search_20x20.png</string>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string>icon_heart_20x20.png</string>
+				<string>icon_history_20x20.png</string>
+			</array>
+			<key>MenuLabels</key>
+			<array>
+				<string>X</string>
+				<string>A</string>
+				<string>S</string>
+				<string>1</string>
+				<string>2</string>
+				<string>3</string>
+				<string>F</string>
+				<string>R</string>
+			</array>
+		</dict>
+		<key>TopRightNav</key>
+		<dict>
+			<key>MenuSpacing</key>
+			<integer>5</integer>
+			<key>MenuTextButtonBorders</key>
+			<false/>
+			<key>MenuImageButtonBorders</key>
+			<false/>
+			<key>MenuActions</key>
+			<array>
+				<string>SHOW-MAINTITLE</string>
+				<string>SHOW-TRAVERSING</string>
+				<string>OVERLAY-INFO</string>
+				<string>IMPORT-ONTHEFLYARCHIVE</string>
+				<string>SHOW-ACTIONSHEETRIGHT</string>
+			</array>
+			<key>MenuIcons</key>
+			<array>
+				<string></string>
+				<string></string>
+				<string>icon_information.png</string>
+				<string>UIBarButtonSystemItemAdd</string>
+				<string>UIBarButtonSystemItemAction</string>
+			</array>
+			<key>MenuLabels</key>
+			<array>
+				<string>title</string>
+				<string>traversing</string>
+				<string>?</string>
+				<string>imports</string>
+				<string>more</string>
+			</array>
+		</dict>
+		<key>BottomLeftNav</key>
+		<dict>
+			<key>MenuSpacing</key>
+			<integer>5</integer>
+			<key>MenuTextButtonBorders</key>
+			<true/>
+			<key>MenuImageButtonBorders</key>
+			<true/>
+			<key>MenuActions</key>
+			<array>
+				<string>PREV2LINE-BUTTON</string>
+			</array>
+			<key>MenuIcons</key>
+			<array>
+				<string></string>
+			</array>
+			<key>MenuLabels</key>
+			<array>
+				<string></string>
+			</array>
+		</dict>
+		<key>BottomCenterNav</key>
+		<dict>
+			<key>MenuSpacing</key>
+			<integer>10</integer>
+			<key>MenuTextButtonBorders</key>
+			<true/>
+			<key>MenuImageButtonBorders</key>
+			<false/>
+			<key>MenuActions</key>
+			<array>
+				<string>GO-FULLSCREEN</string>
+				<string>MUTIDOC-BUTTON</string>
+			</array>
+			<key>MenuIcons</key>
+			<array>
+				<string>fullScreen_4</string>
+				<string></string>
+			</array>
+			<key>MenuLabels</key>
+			<array>
+				<string>fullscreen</string>
+				<string>variants</string>
+			</array>
+		</dict>
+		<key>BottomRightNav</key>
+		<dict>
+			<key>MenuSpacing</key>
+			<integer>5</integer>
+			<key>MenuTextButtonBorders</key>
+			<true/>
+			<key>MenuImageButtonBorders</key>
+			<false/>
+			<key>MenuActions</key>
+			<array>
+				<string>NEXT2LINE-BUTTON</string>
+			</array>
+			<key>MenuIcons</key>
+			<array>
+				<string></string>
+			</array>
+			<key>MenuLabels</key>
+			<array>
+				<string>details</string>
+			</array>
+		</dict>
+		<key>WebBrowser</key>
+		<dict>
+			<key>MenuSpacing</key>
+			<integer>15</integer>
+			<key>MenuTextButtonBorders</key>
+			<true/>
+			<key>MenuImageButtonBorders</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>iPadAppSettings</key>
+	<dict>
+		<key>ShowIntroOverlay</key>
+		<false/>
+		<key>StartPushButton</key>
+		<string>OVERLAY-INFO</string>
+		<key>AllowRotations</key>
+		<true/>
+		<key>StartupWaitingImage</key>
+		<string>furelise</string>
+		<key>FullScreenTimeout</key>
+		<integer>3600</integer>
+		<key>StartInFullScreenMode</key>
+		<false/>
+		<key>StripFirstTitleComponent</key>
+		<true/>
+		<key>DisableFooter</key>
+		<false/>
+		<key>DisableTopTitle</key>
+		<true/>
+		<key>DisableAppleHeader</key>
+		<false/>
+		<key>TransparentFooter</key>
+		<false/>
+		<key>SearchBarHeight</key>
+		<integer>50</integer>
+		<key>FooterHeight</key>
+		<integer>44</integer>
+		<key>RowHeight</key>
+		<integer>64</integer>
+		<key>AppBackgroundColor</key>
+		<string>blackColor</string>
+		<key>TopBackgroundColor</key>
+		<string>blackColor</string>
+		<key>ColorBehindHTMLPages</key>
+		<string>whiteColor</string>
+		<key>GigOrBigStand</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

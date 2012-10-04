@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ShovelReadyMusicKey</key>
+	<string>planBStarbucks062510</string>
+	<key>RemoteURL</key>
+	<string>http://s350968899.onlinehome.us/planb/planBStarbucks2010/</string>
+	<key>TuneBundleName</key>
+	<string>planBStarbucks062510</string>
+	<key>PerformanceDate</key>
+	<string>June 25, 2010</string>
+	<key>ImageURL</key>
+	<string>starbucks.png</string>
+	<key>HighlightedImageURL</key>
+	<string>starbucksOver.png</string>
+	<key>Notes</key>
+	<string>Starbucks, Street Fair, Bronxville</string>
+	<key>Tunes</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Raw, Uncut, Live On The Street</string>
+			<key>URL</key>
+			<string>planb-liveatstarbucks-062510.mp3</string>
+		</dict>
+	</array>
+</dict>
+</plist>

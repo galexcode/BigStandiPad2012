@@ -1,0 +1,18 @@
+<html><head>
+<meta name="viewport" content="width=device-width" />
+<link rel="stylesheet" type="text/css" href="css/infoBox.css" />
+</head>
+
+<body>
+<div class="infoTitle">
+Tomato</div>
+
+<div class="infoCLient"><a href='http://en.wikipedia.org/wiki/Tomato'>http://en.wikipedia.org/wiki/Tomato</a></div>
+
+<div class="infoText">
+Tomato may refer to both the plant (Solanum lycopersicum) and the edible, typically red, fruit which it bears. Originating in South America, the tomato was spread around the world following the Spanish colonization of the Americas, and its many varieties are now widely grown, often in greenhouses in cooler climates.
+The tomato fruit is consumed in diverse ways, including raw, as an ingredient in many dishes and sauces, and in drinks. While it is botanically a fruit, it is considered a vegetable for culinary purposes (as well as by the United States Supreme Court, see Nix v. Hedden), which has caused some confusion. The fruit is rich in lycopene, which may have beneficial health effects.
+The tomato belongs to the nightshade family. The plants typically grow to 1–3 metres (3–10 ft) in height and have a weak stem that often sprawls over the ground and vines over other plants. It is a perennial in its native habitat, although often grown outdoors in temperate climates as an annual.
+</div>
+</body>
+</html>

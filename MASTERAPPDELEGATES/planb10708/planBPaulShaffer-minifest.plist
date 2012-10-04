@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ShovelReadyMusicKey</key>
+	<string>planBChessBenefit</string>
+	<key>RemoteURL</key>
+	<string>http://s350968899.onlinehome.us/planb/planBVideo/</string>
+	<key>TuneBundleName</key>
+	<string>planBChessBenefit</string>
+	<key>PerformanceDate</key>
+	<string>Jan, 2011</string>
+	<key>ImageURL</key>
+	<string>chess.png</string>
+	<key>HighlightedImageURL</key>
+	<string>chessOver.png</string>
+	<key>Notes</key>
+	<string>Chess Benefit w Paul Shaffer @ BFC</string>
+	<key>Tunes</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Gimme Some Lovin</string>
+			<key>URL</key>
+			<string>GimmeSomeLovinPaulShaffer.mov</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Midnight Hour</string>
+			<key>URL</key>
+			<string>MidnightHourPaulShaffer.mov</string>
+		</dict>
+	</array>
+</dict>
+</plist>

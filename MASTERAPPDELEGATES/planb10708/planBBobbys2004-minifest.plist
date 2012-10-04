@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ShovelReadyMusicKey</key>
+	<string>planBBobbys2004</string>
+	<key>RemoteURL</key>
+	<string>http://s350968899.onlinehome.us/planb/planBBobbys2004May29/</string>
+	<key>TuneBundleName</key>
+	<string>First Gig 2004</string>
+	<key>PerformanceDate</key>
+	<string>May 2004</string>
+	<key>ImageURL</key>
+	<string>bobbys.png</string>
+	<key>HighlightedImageURL</key>
+	<string>bobbysOver.png</string>
+	<key>Notes</key>
+	<string>Downstairs at Bobbys Bronxville, NY</string>
+	<key>Tunes</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>A Hard Day's Night</string>
+			<key>URL</key>
+			<string>A Hard Day's Night.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>All Blues</string>
+			<key>URL</key>
+			<string>All Blues.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Born To Be Wild</string>
+			<key>URL</key>
+			<string>Born To Be Wild.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Cocaine</string>
+			<key>URL</key>
+			<string>Cocaine.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Dancing In The Streets</string>
+			<key>URL</key>
+			<string>Dancing In The Streets.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Honky Tonk Woman</string>
+			<key>URL</key>
+			<string>Honky Tonk Woman.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Love Me Two Times</string>
+			<key>URL</key>
+			<string>Love Me Two Times.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Moondance</string>
+			<key>URL</key>
+			<string>Moondance.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Mystery Achievemen</string>
+			<key>URL</key>
+			<string>Mystery Achievemen.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Proud Mary</string>
+			<key>URL</key>
+			<string>Proud Mary.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Riders On The Storm</string>
+			<key>URL</key>
+			<string>Riders On The Storm.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Runaway</string>
+			<key>URL</key>
+			<string>Runaway.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Satisfaction</string>
+			<key>URL</key>
+			<string>Satisfaction.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Secret Agent Man</string>
+			<key>URL</key>
+			<string>Secret Agent Man.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Somebody To Love</string>
+			<key>URL</key>
+			<string>Somebody To Love.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Stormy Monday</string>
+			<key>URL</key>
+			<string>Stormy Monday.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Sunshine-Crossroads</string>
+			<key>URL</key>
+			<string>Sunshine-Crossroads.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>The Last Time</string>
+			<key>URL</key>
+			<string>The Last Time.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Under My Thumb</string>
+			<key>URL</key>
+			<string>Under My Thumb.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>White Rabbit</string>
+			<key>URL</key>
+			<string>White Rabbit.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>You Can't Do That</string>
+			<key>URL</key>
+			<string>You Can't Do That.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>You Really Got Me</string>
+			<key>URL</key>
+			<string>You Really Got Me.mp3</string>
+		</dict>
+	</array>
+</dict>
+</plist>

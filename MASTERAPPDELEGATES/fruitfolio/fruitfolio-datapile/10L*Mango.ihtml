@@ -1,0 +1,16 @@
+<html><head>
+<meta name="viewport" content="width=device-width" />
+<link rel="stylesheet" type="text/css" href="css/infoBox.css" />
+</head>
+
+<body>
+<div class="infoTitle">
+Mango</div>
+
+<div class="infoCLient"><a href='http://en.wikipedia.org/wiki/Tomato'>http://en.wikipedia.org/wiki/Mango</a></div>
+
+<div class="infoText">
+The mango is a fleshy stone fruit belonging to the genus Mangifera, consisting of numerous tropical fruiting trees in the flowering plant family Anacardiaceae. The mango is native to India from where it spread all over the world. It is also the most cultivated fruit of the tropical world. While other Mangifera species (e.g. horse mango, M. foetida) are also grown on a more localized basis, Mangifera indica – the common mango or Indian mango – is the only mango tree commonly cultivated in many tropical and subtropical regions, and its fruit is distributed essentially worldwide.
+In several cultures, its fruit and leaves are ritually used as floral decorations at weddings, public celebrations and religious ceremonies[citation needed].</div>
+</body>
+</html>

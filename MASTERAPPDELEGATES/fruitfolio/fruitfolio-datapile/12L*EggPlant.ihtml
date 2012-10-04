@@ -1,0 +1,20 @@
+<html><head>
+<meta name="viewport" content="width=device-width" />
+<link rel="stylesheet" type="text/css" href="css/infoBox.css" />
+</head>
+
+<body>
+<div class="infoTitle">
+Eggplant</div>
+
+<div class="infoCLient"><a href='http://en.wikipedia.org/wiki/Eggplant'>http://en.wikipedia.org/wiki/Eggplant</a></div>
+
+<div class="infoText">
+The eggplant, aubergine, melongene, brinjal or guinea squash (Solanum melongena) is a plant of the family Solanaceae (also known as the nightshades) and genus Solanum. It bears a fruit of the same name, commonly used in cooking. As a nightshade, it is closely related to the tomato and potato and is native to India.[1][2]
+It is a delicate perennial often cultivated as an annual. It grows 40 to 150 cm (16 to 57 in) tall, with large coarsely lobed leaves that are 10 to 20 cm (4–8 in) long and 5 to 10 cm (2–4 in) broad. Semiwild types can grow much larger, to 225 cm (7 ft) with large leaves over 30 cm (12 in) long and 15 cm (6 in) broad. The stem is often spiny. The flowers are white to purple, with a five-lobed corolla and yellow stamens. The fruit is fleshy, has a meaty texture, and is less than 3 cm (1.2 in) in diameter on wild plants, but much larger in cultivated forms.
+The fruit is botanically classified as a berry, and contains numerous small, soft seeds, which are edible, but are bitter because they contain nicotinoid alkaloids, unsurprising as it is a close relative of tobacco.
+
+ </div>
+
+</body>
+</html>

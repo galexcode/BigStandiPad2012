@@ -1,0 +1,29 @@
+body,center,div,img {margin:0;padding:0;background:black;color:white;border-style:none;}
+a {text-decoration:none; color:gray; font-size:12px;}
+.infoTitle {
+	font-family:Verdana,Geneva,'DejaVu Sans',sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	color: #ff9933;
+	padding-left:5px;
+	padding-right:5px;
+	padding-bottom: 20px;
+}
+.infoCLient {
+	font-family:Verdana,Geneva,'DejaVu Sans',sans-ser
+	font-size: 20px;
+	font-weight: bold;
+	color: #fbaf5d;
+	padding-left:5px;
+	padding-right:5px;
+	padding-bottom: 16px;
+}
+
+.infoText {
+	font-family:Verdana,Geneva,'DejaVu Sans',sans-serif;
+	font-size: 14px;
+	color: #fff;
+	padding-left:5px;
+	padding-right:5px;
+
+}

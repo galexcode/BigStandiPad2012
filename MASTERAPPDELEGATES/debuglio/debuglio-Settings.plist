@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ZippedDataPiles</key>
+	<array>
+		<string>sample1-archive.zip</string>
+		<string>sample2-archive.zip</string>
+	</array>
+	<key>StripFirstTitleComponent</key>
+	<true/>
+	<key>DisableFooter</key>
+	<false/>
+	<key>StartInFullScreenMode</key>
+	<false/>
+	<key>SearchBarHeight</key>
+	<integer>50</integer>
+	<key>FooterHeight</key>
+	<integer>44</integer>
+	<key>AppBackgroundColor</key>
+	<string>darkGrayColor</string>
+	<key>TopBackgroundColor</key>
+	<string>yellowColor</string>
+	<key>TitlesForHiddenPages</key>
+	<dict>
+		<key>about.html</key>
+		<string>FruitFolio by ShovelReadyApps</string>
+		<key>instructions.html</key>
+		<string>First Time Up in FruitFolio</string>
+	</dict>
+	<key>StartPageTitle</key>
+	<string>Oranges</string>
+	<key>StartPopUpTitle</key>
+	<string>introduction.html</string>
+	<key>ColorBehindHTMLPages</key>
+	<string>blackColor</string>
+	<key>iPadMenuSettings</key>
+	<dict>
+		<key>FruitActions</key>
+		<dict>
+			<key>Title</key>
+			<string>More Fruitfolio Choices</string>
+			<key>ActionMenuActions</key>
+			<array>
+				<string>SHOW-TELLAFRIENDEMAIL</string>
+				<string>SHOW-CONTACTUSEMAIL</string>
+				<string>SHOW-INSTRUCTIONSPAGE</string>
+				<string>SHOW-ABOUTPAGE</string>
+				<string>OVERLAY-INFO</string>
+				<string>SET-WALLPAPER</string>
+			</array>
+			<key>ActionMenuLabels</key>
+			<array>
+				<string>tell a friend about fruitfolio</string>
+				<string>contact the fruit people</string>
+				<string>instructions for use</string>
+				<string>about fruitfolio</string>
+				<string>info about this photo</string>
+				<string>make wallpaper from photo</string>
+			</array>
+			<key>ActionMenuIcons</key>
+			<array>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+			</array>
+		</dict>
+		<key>MAINMENUMainTitle</key>
+		<string>featured fruits</string>
+		<key>MAINMENUMenuStyle</key>
+		<integer>1</integer>
+		<key>MAINMENURightHanded</key>
+		<false/>
+		<key>MAINMENUTagBase</key>
+		<integer>3000</integer>
+		<key>MAINMENUPileFilter</key>
+		<string>L*</string>
+		<key>MAINMENUBackgroundColor</key>
+		<string>whiteColor</string>
+		<key>MAINMENUThumbNailSize</key>
+		<integer>100</integer>
+		<key>MAINMENUImageBorderSize</key>
+		<integer>4</integer>
+		<key>MAINMENUColumnCount</key>
+		<integer>5</integer>
+		<key>MAINMENUActionSheetRight</key>
+		<string>FruitActions</string>
+	</dict>
+	<key>iPhoneMenuSettings</key>
+	<dict>
+		<key>FruitActions</key>
+		<dict>
+			<key>Title</key>
+			<string>More Fruitfolio Choices</string>
+			<key>ActionMenuActions</key>
+			<array>
+				<string>SHOW-TELLAFRIENDEMAIL</string>
+				<string>SHOW-CONTACTUSEMAIL</string>
+				<string>SHOW-INSTRUCTIONSPAGE</string>
+				<string>SHOW-ABOUTPAGE</string>
+				<string>OVERLAY-INFO</string>
+				<string>SET-WALLPAPER</string>
+			</array>
+			<key>ActionMenuLabels</key>
+			<array>
+				<string>tell a friend about fruitfolio</string>
+				<string>contact the fruit people</string>
+				<string>instructions for use</string>
+				<string>about fruitfolio</string>
+				<string>info about this photo</string>
+				<string>make wallpaper from photo</string>
+			</array>
+			<key>ActionMenuIcons</key>
+			<array>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+			</array>
+		</dict>
+		<key>MAINMENUMainTitle</key>
+		<string>featured fruits</string>
+		<key>MAINMENUMenuStyle</key>
+		<integer>1</integer>
+		<key>MAINMENURightHanded</key>
+		<false/>
+		<key>MAINMENUTagBase</key>
+		<integer>3000</integer>
+		<key>MAINMENUPileFilter</key>
+		<string>L*</string>
+		<key>MAINMENUBackgroundColor</key>
+		<string>whiteColor</string>
+		<key>MAINMENUThumbNailSize</key>
+		<integer>75</integer>
+		<key>MAINMENUImageBorderSize</key>
+		<integer>4</integer>
+		<key>MAINMENUColumnCount</key>
+		<integer>4</integer>
+		<key>MAINMENUActionSheetRight</key>
+		<string>FruitActions</string>
+	</dict>
+	<key>EmailSettings</key>
+	<dict>
+		<key>ContactUsEmail</key>
+		<dict>
+			<key>EmailTo</key>
+			<string>support@fruitstand.net</string>
+			<key>EmailSubject</key>
+			<string>desperately seeking fruit</string>
+			<key>EmailBody</key>
+			<string>[put your own message here]</string>
+			<key>EmailApplicationBanner</key>
+			<string>MORE FRUIT PLEASE</string>
+		</dict>
+		<key>TellAFriendEmail</key>
+		<dict>
+			<key>EmailTo</key>
+			<string></string>
+			<key>EmailSubject</key>
+			<string>Are you Shovel Ready?</string>
+			<key>EmailBody</key>
+			<string>I&apos;m enjoying this app and I think you will too. Try it, it&apos;s free. It shows off what you can do with no programming at all.</string>
+			<key>EmailApplicationBanner</key>
+			<string>The Easiest Way To Make Brochureware</string>
+		</dict>
+	</dict>
+	<key>iPhoneCornerNavSettings</key>
+	<dict>
+		<key>TopRightNav</key>
+		<dict>
+			<key>MenuSpacing</key>
+			<integer>5</integer>
+			<key>MenuTextButtonBorders</key>
+			<false/>
+			<key>MenuImageButtonBorders</key>
+			<false/>
+			<key>MenuActions</key>
+			<array>
+				<string>SHOW-ACTIONSHEETRIGHT</string>
+				<string>ACTION-MOVETONEXT</string>
+			</array>
+			<key>MenuIcons</key>
+			<array>
+				<string>UIBarButtonSystemItemAction</string>
+				<string>icon-arrowRight-20x20</string>
+			</array>
+			<key>MenuLabels</key>
+			<array>
+				<string>more</string>
+				<string>&gt;</string>
+			</array>
+		</dict>
+		<key>TopLeftNav</key>
+		<dict>
+			<key>MenuSpacing</key>
+			<integer>5</integer>
+			<key>MenuTextButtonBorders</key>
+			<false/>
+			<key>MenuImageButtonBorders</key>
+			<false/>
+			<key>MenuActions</key>
+			<array>
+				<string>ACTION-MOVETOPREV</string>
+				<string>MAINMENU-ACTION</string>
+			</array>
+			<key>MenuIcons</key>
+			<array>
+				<string>icon-arrowLeft-20x20</string>
+				<string>icon-gallery-20x20</string>
+			</array>
+			<key>MenuLabels</key>
+			<array>
+				<string>&lt;</string>
+				<string>menu</string>
+			</array>
+		</dict>
+	</dict>
+	<key>iPadCornerNavSettings</key>
+	<dict>
+		<key>TopLeftNav</key>
+		<dict>
+			<key>MenuSpacing</key>
+			<integer>15</integer>
+			<key>MenuTextButtonBorders</key>
+			<false/>
+			<key>MenuImageButtonBorders</key>
+			<false/>
+			<key>MenuActions</key>
+			<array>
+				<string>ACTION-MOVETOPREV</string>
+				<string>MAINMENU-ACTION</string>
+			</array>
+			<key>MenuIcons</key>
+			<array>
+				<string>icon-arrowLeft-20x20</string>
+				<string>icon-gallery-20x20</string>
+			</array>
+			<key>MenuLabels</key>
+			<array>
+				<string>&lt;</string>
+				<string>menu</string>
+			</array>
+		</dict>
+		<key>TopRightNav</key>
+		<dict>
+			<key>MenuSpacing</key>
+			<integer>15</integer>
+			<key>MenuTextButtonBorders</key>
+			<false/>
+			<key>MenuImageButtonBorders</key>
+			<false/>
+			<key>MenuActions</key>
+			<array>
+				<string>OVERLAY-INFO</string>
+				<string>SHOW-ACTIONSHEETRIGHT</string>
+				<string>ACTION-MOVETONEXT</string>
+			</array>
+			<key>MenuIcons</key>
+			<array>
+				<string>icon-info-20x20</string>
+				<string>UIBarButtonSystemItemAction</string>
+				<string>icon-arrowRight-20x20</string>
+			</array>
+			<key>MenuLabels</key>
+			<array>
+				<string>info</string>
+				<string>more</string>
+				<string>&gt;</string>
+			</array>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+<html><head>
+<meta name="viewport" content="width=device-width" />
+<link rel="stylesheet" type="text/css" href="css/infoBox.css" />
+</head>
+
+<body>
+<div class="infoTitle">
+Red Peppers</div>
+
+<div class="infoCLient"><a href='http://en.wikipedia.org/wiki/Red_Peppers'>http://en.wikipedia.org/wiki/Red_Peppers</a></div>
+
+<div class="infoText"><img height=100 src='images/Red_Peppers.jpg' alt=nopeppers />
+Red Peppers is a short comic play by Noël Coward, one of the ten plays that make up Tonight at 8:30, a cycle written to be performed across three evenings. In the introduction to a published edition of the plays, Coward wrote, "A short play, having a great advantage over a long one in that it can sustain a mood without technical creaking or over padding, deserves a better fate, and if, by careful writing, acting and producing I can do a little towards reinstating it in its rightful pride, I shall have achieved one of my more sentimental ambitions."[1]
+The play was first produced in 1935 in Manchester and on tour and played in London (1936), New York (1936–1937) and Canada (1938). It has enjoyed several major revivals, and has been adapted for film and numerous times for television. At the London première Red Peppers was played on the same evening as Family Album and The Astonished Heart. Like all the other plays in the cycle it originally starred Gertrude Lawrence and Coward himself.[2]
+</div>
+</body>
+</html>

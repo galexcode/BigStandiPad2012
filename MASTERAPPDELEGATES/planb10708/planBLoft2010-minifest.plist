@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ShovelReadyMusicKey</key>
+	<string>planBLoft2010</string>
+	<key>RemoteURL</key>
+	<string>http://s350968899.onlinehome.us/planb/planBLoft2010/</string>
+	<key>TuneBundleName</key>
+	<string>in the Studio</string>
+	<key>PerformanceDate</key>
+	<string>April 2010</string>
+	<key>ImageURL</key>
+	<string>loft.png</string>
+	<key>HighlightedImageURL</key>
+	<string>loftOver.png</string>
+	<key>Notes</key>
+	<string>The Loft, Bronxville, NY</string>
+	<key>Tunes</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Bell Bottom Blues</string>
+			<key>URL</key>
+			<string>Bell Bottom Blues.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Free Bird</string>
+			<key>URL</key>
+			<string>Free Bird.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Further On Up The Road</string>
+			<key>URL</key>
+			<string>Further On Up The Road.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Gimme Shelter</string>
+			<key>URL</key>
+			<string>Gimme Shelter.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>La Grange</string>
+			<key>URL</key>
+			<string>La Grange.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Let It Rain</string>
+			<key>URL</key>
+			<string>Let It Rain.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Long Train Running</string>
+			<key>URL</key>
+			<string>Long Train Running.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Love Shack</string>
+			<key>URL</key>
+			<string>Love Shack.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Magic Carpet Ride</string>
+			<key>URL</key>
+			<string>Magic Carpet Ride.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Miss You</string>
+			<key>URL</key>
+			<string>Miss You.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Pretzel Logic</string>
+			<key>URL</key>
+			<string>Pretzel Logic.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Rebel Rebel</string>
+			<key>URL</key>
+			<string>Rebel Rebel.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Rock and Roll</string>
+			<key>URL</key>
+			<string>Rock and Roll.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Sweet Child</string>
+			<key>URL</key>
+			<string>Sweet Child.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Sweet Home Alabama</string>
+			<key>URL</key>
+			<string>Sweet Home Alabama.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Walk This Way</string>
+			<key>URL</key>
+			<string>Walk This Way.mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Whipping Post</string>
+			<key>URL</key>
+			<string>Whipping Post.mp3</string>
+		</dict>
+	</array>
+</dict>
+</plist>

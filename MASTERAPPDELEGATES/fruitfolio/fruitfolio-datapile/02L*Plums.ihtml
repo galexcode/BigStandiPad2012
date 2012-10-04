@@ -1,0 +1,17 @@
+<html><head>
+<meta name="viewport" content="width=device-width" />
+<link rel="stylesheet" type="text/css" href="css/infoBox.css" />
+
+</head>
+<body style="background-color: transparent;">
+<div class="infoTitle">
+Plums</div>
+
+<div class="infoCLient"><a href='http://en.wikipedia.org/wiki/Plums'>http://en.wikipedia.org/wiki/Plums</a></div>
+
+<div class="infoText">
+A plum or gage is a stone fruit tree in the genus Prunus, subgenus Prunus. The subgenus is distinguished from other subgenera (peaches, cherries, bird cherries, etc.) in the shoots having a terminal bud and solitary side buds (not clustered), the flowers in groups of one to five together on short stems, and the fruit having a groove running down one side and a smooth stone (or pit).
+Mature plum fruit may have a dusty-white coating that gives them a glaucous appearance; this is easily rubbed off. This is an epicuticular wax coating and is known as "wax bloom". Dried plum fruits are called dried plums or prunes, although prunes are a distinct type of plum, and may have antedated the fruits now commonly known as plums.[citation needed]
+</div>
+</body>
+</html>
