@@ -18,6 +18,8 @@ If you have some content that you want to "share" amongst your band or choir you
 Features that are different
 ----------------------
 
+Various UI modes have been eliminated.  One finger access is possible for all functions needed during performance. 
+
 The metronome and autoscroller are disabled in this release, but all the code is workable.
 
 > Just add the buttons wherever you'd like them (normally in the bottom center toolbar)
@@ -25,82 +27,42 @@ The metronome and autoscroller are disabled in this release, but all the code is
 
 Triple tap to enter or leave full screen mode regardless of whether the fullscreen button is shown
 
+When started, BigStand attempts to display the most recent item added to the "Recents" list.
 
-Table for two
+
+
+
+File Types That Open in BigStand
 -------------
+Many IOS Apps support opening a file in another app -most importantly Mail and Gmail. Here's what BigStand does...
+			
+				<table>
+					<tr ><th >Type</th><th>Stored As</th><th>Displayed As</th>
+					</tr><tr>
+					<td> HTML		</td><td> As received with supplied Tune Title.	</td><td> displays in pdf viewer in     webview						</td></tr><tr>
+					<td> PDF</td><td> 		As received with supplied Tune Title.	</td><td> displays in pdf viewer in     webview
+							</td></tr><tr>
+					<td> DOC	</td><td> 	As received with supplied Tune Title.</td><td> 	displayed as is in     webview, autoscroll
+								</td></tr><tr>
+					<td> RTF		</td><td> As received with supplied Tune Title.	</td><td> displayed as is in     webview, autoscroll
+									</td></tr><tr>
+					<td> TXT		</td><td> As received with supplied Tune Title.	</td><td>  wrapped, rewritten into HTML,displays in     webview
+										</td></tr><tr>
+					<td> PNG		</td><td> As received with supplied Tune Title.</td><td> 	wrapped in HTML, displayed in     webview
+											</td></tr><tr>
+					<td> JPEG		</td><td> As received with supplied Tune Title.	</td><td> wrapped in HTML, displayed in     webview
+												</td></tr><tr>
+					<td> GIF		</td><td> As received with supplied Tune Title.	</td><td> wrapped in HTML, displayed in     webview
+													</td></tr><tr>
+					<td> STL		</td><td> A new setlist is created.		</td><td> displays in standard Viewer frame
+														</td></tr><tr>
+					<td> ZIP		</td><td> Full Unzipped Tree Is Stored into a new archive. </td><td> Only top level directory is indexed by Tune Title.
+														</td>	</tr>
+					</table>
 
-<table>
-  <tr>
-    <th>ID</th><th>Name</th><th>Rank</th>
-  </tr>
-  <tr>
-    <td>1</td><td>Tom Preston-Werner</td><td>Awesome</td>
-  </tr>
-  <tr>
-    <td>2</td><td>Albert Einstein</td><td>Nearly as awesome</td>
-  </tr>
-</table>
 
-Crazy linking action
---------------------
 
-I get 10 times more traffic from [Google] [1] than from
-[Yahoo] [2] or [MSN] [3].
-
-  [1]: http://google.com/        "Google"
-  [2]: http://search.yahoo.com/  "Yahoo Search"
-  [3]: http://search.msn.com/    "MSN Search"
-First time up
-Line Two
-
-Headline 1
-=======
-
-asdlfkjasdljkfljkdasf
-
-Headline 2
------------
-
-blah blah 
-
-* asdkfjadsf
-* fljkasdfj
-
-Playing the blame game
-----------------------
-
-If you need to blame someone, the best way to do so is by quoting them:
-
-> I, at any rate, am convinced that He does not throw dice.
-
-Or perhaps someone a little less eloquent:
-
-> I wish you'd have given me this written question ahead of time so I
-> could plan for it... I'm sure something will pop into my head here in
-> the midst of this press conference, with all the pressure of trying to
-> come up with answer, but it hadn't yet...
->
-> I don't want to sound like
-> I have made no mistakes. I'm confident I have. I just haven't - you
-> just put me under the spot here, and maybe I'm not as quick on my feet
-> as I should be in coming up with one.
-
-Table for two
--------------
-
-<table>
-  <tr>
-    <th>ID</th><th>Name</th><th>Rank</th>
-  </tr>
-  <tr>
-    <td>1</td><td>Tom Preston-Werner</td><td>Awesome</td>
-  </tr>
-  <tr>
-    <td>2</td><td>Albert Einstein</td><td>Nearly as awesome</td>
-  </tr>
-</table>
-
-Crazy linking action
+Useful Links
 --------------------
 
 I get 10 times more traffic from [Google] [1] than from
