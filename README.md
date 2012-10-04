@@ -1,5 +1,5 @@
 
-BigStand 2012
+BigStand Offline Music Browser 2012
 =======
 
 BigStand is an Offline Music Browser for performers of all kinds. Load your lyrics, chords, cheatsheets and sheet music into your iPad when you are offline, organize into convenient Set Lists, and use BigStand in performance, with or without Internet.
