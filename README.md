@@ -4,7 +4,7 @@ BigStand 2012
 
 BigStand is an Offline Music Browser for performers of all kinds. Load your lyrics, chords, cheatsheets and sheet music into your iPad when you are offline, organize into convenient Set Lists, and use BigStand in performance, with or without Internet.
 
-BigStand is based on the previous app GigStand which was in the App Store a while back. Several features have been removed to simplify the user interface for typical users.
+BigStand is based on the previous app GigStand which was in the App Store a while back. Several features have been removed to simplify the interface for typical users.
 
 
 To Customize Your BigStand
@@ -12,22 +12,8 @@ To Customize Your BigStand
 
 If you have some content that you want to "share" amongst your band or choir you have a few choices:
 
-*Get the current version from the App Store, add single tunes and .zip files iTunes file sharing and email
-*Take the source code from here and build in your own .zip files in the /samples directory. 
-
-Features that are different
-----------------------
-
-Various UI modes have been eliminated.  One finger access is possible for all functions needed during performance. 
-
-The metronome and autoscroller are disabled in this release, but all the code is workable.
-
-> Just add the buttons wherever you'd like them (normally in the bottom center toolbar)
-> The long press gesture recognizer should be re-enabled in order to get to the respective control panels for these tools
-
-Triple tap to enter or leave full screen mode regardless of whether the fullscreen button is shown
-
-When started, BigStand attempts to display the most recent item added to the "Recents" list.
+* Get the current version from the App Store, add single tunes and .zip files iTunes file sharing and email
+* Take the source code from here and build in your own .zip files in the /samples directory. 
 
 
 
@@ -59,6 +45,20 @@ Many IOS Apps support opening a file in another app -most importantly Mail and G
 					<td> ZIP		</td><td> Full Unzipped Tree Is Stored into a new archive. </td><td> Only top level directory is indexed by Tune Title.
 														</td>	</tr>
 </table>
+
+Features that are different from GigStand
+----------------------
+
+Various UI modes have been eliminated.  One finger access is possible for all functions needed during performance. 
+
+The metronome and autoscroller are disabled in this release, but all the code is workable.
+
+> Just add the buttons wherever you'd like them (normally in the bottom center toolbar)
+> The long press gesture recognizer should be re-enabled in order to get to the respective control panels for these tools
+
+Triple tap to enter or leave full screen mode regardless of whether the fullscreen button is shown
+
+When started, BigStand attempts to display the most recent item added to the "Recents" list.
 
 
 
